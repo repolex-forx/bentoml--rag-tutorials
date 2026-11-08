@@ -1,0 +1,46 @@
+{
+  "manifest_version": "1.0",
+  "org": "bentoml",
+  "repo": "rag-tutorials",
+  "versions": [
+    {
+      "commit": "f241f888a356888ff6ca2e5c7726d542dadb0f35",
+      "parsed_at": "2026-11-08T06:03:04.834150+00:00",
+      "filetree": "filetree/f241f888a356888ff6ca2e5c7726d542dadb0f35.nq.gz",
+      "blobs": [
+        "blob/6ebd858793994d7f1299411dc5c8a582ca4a1175.nq.gz",
+        "blob/ad1876085e156c2d0bcf298078ba0a9c8ed8a4da.nq.gz",
+        "blob/702834826f5ec375e6cbfe1bde598193956842f8.nq.gz",
+        "blob/9c1803d41aa1fad5c302b462493d52da9759513f.nq.gz",
+        "blob/b07cc45ff21fe213a8709bcdc5fbb534d577bc3a.nq.gz",
+        "blob/731e082f7e4c5030331dc7b309684e487aa3b991.nq.gz",
+        "blob/7e40a0093cd80c467ac810151b30f5a5ddba8685.nq.gz",
+        "blob/9a93d8795991fe888e171e72931337862f936a8f.nq.gz",
+        "blob/29d55110f5339fbae233d38b8c18b479cee78532.nq.gz",
+        "blob/82f4325bbf7112bee8172fffa31e701cebe4db20.nq.gz",
+        "blob/b89aeccee73d4006fd9de1808a00b1f817f1c4ca.nq.gz",
+        "blob/d100db9968f3fbc77a61c8352bb2d8076710ebc8.nq.gz",
+        "blob/905b1a6f4129cd8944b63539dd6c95c34cc892f6.nq.gz",
+        "blob/308fafa77e6b403500bb7848d9dbb5bf72d05788.nq.gz",
+        "blob/fd2c5ff75e30d7fc3a8f88eb6ef8fd586b581c84.nq.gz",
+        "blob/bf0b4b44e0ccc5f45a8c70473fb30067b0c51b5d.nq.gz",
+        "blob/d768e6121b9a21cc96cbab3bda43d322d4b2a801.nq.gz",
+        "blob/bc9694fd57e74ed7e0e81b47d564c27634f5977d.nq.gz",
+        "blob/f69b259ebf9b0c66bdaa2ba38198c7d180cf4aaf.nq.gz",
+        "blob/bc277ca98ebb0f66c37e4ca4d4c0a4604f561cc6.nq.gz",
+        "blob/d9cf1150b84cca06b20e7dcae3a5941ad67e1d87.nq.gz",
+        "blob/8ee6dbfad51665e8f7f6ce489443cc9ac9b1a9a8.nq.gz",
+        "blob/b21e6f36175b8d0683c668aed122efd5f9bd9812.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/66e166ba093b01544285c7ada05c18dc930cd059.nq.gz",
+        "blob/2849ed239f6006f1cac4cbc92afae768e0071b53.nq.gz",
+        "blob/e44057592c4cc51a1128a86e3150c062add3bce2.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
