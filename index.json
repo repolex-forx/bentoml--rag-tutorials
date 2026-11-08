@@ -1,0 +1,11 @@
+{
+  "org": "bentoml",
+  "repo": "rag-tutorials",
+  "versions": [
+    {
+      "commit": "f241f888a356888ff6ca2e5c7726d542dadb0f35",
+      "tag": "",
+      "parsed_at": "2026-11-08T06:05:40.776452+00:00"
+    }
+  ]
+}
