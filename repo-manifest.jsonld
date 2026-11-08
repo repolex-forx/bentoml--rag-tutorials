@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/bentoml/rag-tutorials/commit/f241f888a356888ff6ca2e5c7726d542dadb0f35",
       "git:hexsha": "f241f888a356888ff6ca2e5c7726d542dadb0f35",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
